@@ -5,10 +5,11 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v5.0.0   | MIT License | github.com/necolas/normalize.css   */
-/*! bootstrap-rtl.css v0.9 | MIT License | github.com/mRizvandi/bootstrap-rtl */
-/*! Arya Vandidad Technology Development: http://aryavtd.com
- *  rtl: some float, text-align, border, padding and margin updated
+/*! bootstrap-rtl.css v0.91 | MIT License | github.com/mRizvandi/bootstrap-rtl */
+/*! Arya Vandidad Technology Development: http://www.AryaVandidad.com
+ *  rtl: some float, text-align, border, padding and margin updated,
  *  some property removed because of persian style
+ *  dont forget to add dir="rtl" to <html> or <body> tag. (<html dir="rtl"> or <body dir="rtl">)
  */
 html {
   font-family: sans-serif;

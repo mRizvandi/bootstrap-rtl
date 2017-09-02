@@ -7,4 +7,4 @@ Starting Using bootstrap-rtl.css
 1. download master bootstrap files from https://github.com/twbs/bootstrap or http://getbootstrap.com
 2. install bootstrap on your project (follow the instruction on the above websites)
 3. download bootstrap-rtl.css/bootstrap-rtl.min.css and copy it close to bootstrap.css
-4. add link to your page and dont change anythings, your pages is rtl now
+4. add link to your page and dont change any old bootstrap class but dont forget to add dir="rtl" to html or body, your pages is rtl now
